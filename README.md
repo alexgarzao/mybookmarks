@@ -11,4 +11,5 @@
 ##### Task queue
 
 * [Machinery](https://github.com/RichardKnop/machinery)
+* [dque](https://github.com/joncrlsn/dque)
 
