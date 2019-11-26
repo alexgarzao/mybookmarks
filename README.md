@@ -16,4 +16,5 @@
 ### Compilers
  * [LET'S BUILD A COMPILER!](https://compilers.iecc.com/crenshaw/tutorfinal.pdf)
  * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
+ * [learning-to-write-a-compiler - stack overflow](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler)
 
