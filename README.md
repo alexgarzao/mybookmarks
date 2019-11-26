@@ -13,3 +13,7 @@
 * [Machinery](https://github.com/RichardKnop/machinery)
 * [dque](https://github.com/joncrlsn/dque)
 
+### Compilers
+ * [LET'S BUILD A COMPILER!](https://compilers.iecc.com/crenshaw/tutorfinal.pdf)
+ * [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
+
